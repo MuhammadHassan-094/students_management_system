@@ -1,27 +1,27 @@
-📚 Student Management System (C++ - CLI Based)
+# 📚 Student Management System (C++ - CLI Based)
 
 A simple Command Line Interface (CLI) based Student Management System written in C++ using the basic concepts of Object-Oriented Programming (OOP).
 This project demonstrates how to build a small-scale system for managing student records without using advanced libraries like vector, keeping it beginner-friendly yet structured.
 
-✨ Features
-➕ Add new student records
-📋 Display all student records
-✏️ Update student information
-❌ Delete student record
-🔍 Search student by Roll Number
-💾 Stores records in a fixed-size array
+## ✨ Features
+ - 📋 Display all student records
+ - ✏️ Update student information
+ - ❌ Delete student record
+ - ➕ Add new student records
+ - 🔍 Search student by Roll Number
+ - 💾 Stores records in a fixed-size array
 
-🛠️ Tech Stack
-Language: C++
-Paradigm: Object-Oriented Programming (OOP)
-Interface: Command Line (CLI)
+## 🛠️ Tech Stack
+ - Language: C++
+ - Paradigm: Object-Oriented Programming (OOP)
+ - Interface: Command Line (CLI)
 
-🚀 Getting Started
-1. Clone the Repository
-2. Compile the Program
-3. Run the Program
+## 🚀 Getting Started
+ - Clone the Repository
+ - Compile the Program
+ - Run the Program
 
-📖 Usage Guide
+## 📖 Usage Guide
 Once you run the program, you’ll see a menu like this:
 
 ====== Student Management System ======
@@ -33,30 +33,24 @@ Once you run the program, you’ll see a menu like this:
 6. Exit
 
 
-👉 Simply enter the option number and follow the instructions.
-For example:
-Press 1 → Add a new student (enter roll, name, department, and marks).
-Press 2 → View all students.
-Press 5 → Search for a student by roll number.
+## 👉 Simply enter the option number and follow the instructions.
+ For example:
+- Press 1 → Add a new student (enter roll, name, department, and marks).
+- Press 2 → View all students.
+- Press 5 → Search for a student by roll number.
 
-📂 Project Structure
-student-management-system/
-│── student_management.cpp   # Main source code
-│── Documentation.docx       # Detailed documentation
-│── User_Manual.docx         # End-user guide
-│── README.md                # GitHub Readme
 
-🎯 Learning Outcomes
-Basics of Object-Oriented Programming (Classes & Objects) in C++
-Using arrays to store data (without vectors)
-Implementing CRUD operations
-Working with a simple menu-driven CLI interface
+## 🎯 Learning Outcomes
+- Basics of Object-Oriented Programming (Classes & Objects) in C++
+- Using arrays to store data (without vectors)
+- Implementing CRUD operations
+- Working with a simple menu-driven CLI interface
 
-🤝 Contributing
-Feel free to fork this repository and add more features like:
-File handling (save/load records from file)
-Sorting students by marks/roll number
-GPA calculation system
+## 🤝 Contributing
+- Feel free to fork this repository and add more features like:
+- File handling (save/load records from file)
+- Sorting students by marks/roll number
+- GPA calculation system
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
