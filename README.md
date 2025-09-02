@@ -4,6 +4,8 @@ A simple yet effective command-line **Student Management System** built in C++.
 This project is designed with **Object-Oriented Programming (OOP)** principles while keeping things beginner-friendly.  
 It avoids advanced libraries like `vector` and focuses on learning core concepts, arrays, and CRUD operations.
 
+This project created as part of my **First Semester coursework**
+
 ---
 
 ## ✨ Features
